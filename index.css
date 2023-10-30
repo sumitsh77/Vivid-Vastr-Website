@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.quiz-main {
+  background: url('/img/card-main.jpg') center center;
+  background-size: cover;
+}
